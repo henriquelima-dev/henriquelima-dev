@@ -1,4 +1,4 @@
-# Hi, I'm Henrique Moreira! 👋
+# Hi, I'm Henrique Lima Moreira! 👋
 
 🎓 Software Engineering Student  
 ☕ Currently focused on Java and Object-Oriented Programming  
