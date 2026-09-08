@@ -23,9 +23,9 @@ I also had my first experience with web development through Alura's Dev Immersio
 
 Some of the projects I've developed during my studies:
 
-- 🏦 [Bank Account System](https://github.com/lima2502/bank-account-system) — Java project focused on Object-Oriented Programming.
-- 📚 [Library Management System](https://github.com/lima2502/library-management-system) — Java project developed to practice programming and OOP concepts.
-- 🌐 [Dev Immersion Project](https://github.com/lima2502/imersao-dev) — Informative website developed during Alura's Dev Immersion.
+-  [Bank Account System](https://github.com/lima2502/bank-account-system) — Java project focused on Object-Oriented Programming.
+-  [Library Management System](https://github.com/lima2502/library-management-system) — Java project developed to practice programming and OOP concepts.
+-  [Dev Immersion Project](https://github.com/lima2502/imersao-dev) — Informative website developed during Alura's Dev Immersion.
 
 ## Goals
 
